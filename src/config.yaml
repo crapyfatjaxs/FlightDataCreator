@@ -1,0 +1,96 @@
+save_location: 'Scorecard.xlsx'
+number_of_employees: 100
+origin_city: 'SEA'
+
+aircraft:
+  '737':
+    weight:
+      min: 100
+      max: 7000
+    bags:
+      min: 10
+      max: 120
+  '757': 
+    weight:
+      min: 100
+      max: 10000
+    bags:
+      min: 30
+      max: 250
+  '767':
+    weight:
+      min: 2000
+      max: 22000
+    bags:
+      min: 80
+      max: 250
+  '777':
+    weight:
+      min: 3000
+      max: 25000
+    bags:
+      min: 150
+      max: 300
+  A220:
+    weight:
+      min: 1
+      max: 100
+    bags:
+      min: 10
+      max: 75
+  A319:
+    weight:
+      min: 50
+      max: 1000
+    bags:
+      min: 10
+      max: 75
+  A320:
+    weight:
+      min: 50
+      max: 2000
+    bags:
+      min: 10
+      max: 75
+  A321:
+    weight:
+      min: 50
+      max: 1000
+    bags:
+      min: 10
+      max: 75
+  A330:
+    weight:
+      min: 2000
+      max: 30000
+    bags:
+      min: 150
+      max: 300
+  A350:
+    weight:
+      min: 2000
+      max: 30000
+    bags:
+      min: 150
+      max: 300
+  E175:
+    weight:
+      min: 0
+      max: 0
+    bags:
+      min: 10
+      max: 50
+  E170:
+    weight:
+      min: 0
+      max: 0
+    bags:
+      min: 10
+      max: 50
+  'CL-600':
+    weight:
+      min: 0
+      max: 1
+    bags:
+      min: 0
+      max: 1
